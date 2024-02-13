@@ -31,7 +31,7 @@
 
 - :computer: У меня огромное желание начать работать с реальными проектами, которые будут полезны другим.
 
-- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MAY_2601)
+- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MAY_2601)
 
 ---
 
