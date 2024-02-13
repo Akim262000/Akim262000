@@ -1,3 +1,20 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://t.me/MAY_2601">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/may___26___?igsh=MXdlc3pxYngzZ2g2ZQ%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <!-- <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+</div>
+<img src="https://komarev.com/ghpvc/?username=Akim262000&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
 
 <!--
