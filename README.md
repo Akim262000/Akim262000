@@ -8,11 +8,23 @@
   <a href="https://www.instagram.com/may___26___?igsh=MXdlc3pxYngzZ2g2ZQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <!-- <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
 </div>
 <img src="https://komarev.com/ghpvc/?username=Akim262000&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="250"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+Я веб-разработчик из России.
+
 
 <!--
 **Akim262000/Akim262000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
