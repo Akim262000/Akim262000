@@ -55,4 +55,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akim262000&theme=gotham&locale=ru&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akim262000&layout=compact&locale=ru&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akim262000&layout=compact&locale=ru&theme=vision-friendly-dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
